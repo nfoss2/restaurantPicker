@@ -1,0 +1,138 @@
+{
+  "restaurants": [
+    {
+      "name": "The Food Hub",
+      "address": "123 Main St, Cityville",
+      "phone": "+1 (555) 123-4567",
+      "cuisine": "Italian",
+      "rating": 4.5,
+      "open_hours": {
+        "monday": "09:00 AM - 10:00 PM",
+        "tuesday": "09:00 AM - 10:00 PM",
+        "wednesday": "09:00 AM - 10:00 PM",
+        "thursday": "09:00 AM - 10:00 PM",
+        "friday": "09:00 AM - 11:00 PM",
+        "saturday": "10:00 AM - 11:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      }
+    },
+    {
+      "name": "Taste of India",
+      "address": "456 Oak Ave, Townsville",
+      "phone": "+1 (555) 987-6543",
+      "cuisine": "Indian",
+      "rating": 4.2,
+      "open_hours": {
+        "monday": "11:30 AM - 02:30 PM, 05:00 PM - 09:30 PM",
+        "tuesday": "11:30 AM - 02:30 PM, 05:00 PM - 09:30 PM",
+        "wednesday": "11:30 AM - 02:30 PM, 05:00 PM - 09:30 PM",
+        "thursday": "11:30 AM - 02:30 PM, 05:00 PM - 09:30 PM",
+        "friday": "11:30 AM - 02:30 PM, 05:00 PM - 10:00 PM",
+        "saturday": "12:00 PM - 03:00 PM, 05:30 PM - 10:00 PM",
+        "sunday": "12:00 PM - 03:00 PM, 05:30 PM - 09:30 PM"
+      }
+    }
+  ],
+  "coffee_shops": [
+    {
+      "name": "Brewtiful Caf\u00e9",
+      "address": "789 Maple Rd, Villagetown",
+      "phone": "+1 (555) 222-3333",
+      "specialty": "Espresso",
+      "rating": 4.8,
+      "open_hours": {
+        "monday": "07:00 AM - 06:00 PM",
+        "tuesday": "07:00 AM - 06:00 PM",
+        "wednesday": "07:00 AM - 06:00 PM",
+        "thursday": "07:00 AM - 06:00 PM",
+        "friday": "07:00 AM - 07:00 PM",
+        "saturday": "08:00 AM - 07:00 PM",
+        "sunday": "08:00 AM - 06:00 PM"
+      }
+    },
+    {
+      "name": "Cozy Corner",
+      "address": "987 Cedar St, Hamletville",
+      "phone": "+1 (555) 444-5555",
+      "specialty": "Cappuccino",
+      "rating": 4.5,
+      "open_hours": {
+        "monday": "08:00 AM - 05:00 PM",
+        "tuesday": "08:00 AM - 05:00 PM",
+        "wednesday": "08:00 AM - 05:00 PM",
+        "thursday": "08:00 AM - 05:00 PM",
+        "friday": "08:00 AM - 06:00 PM",
+        "saturday": "09:00 AM - 06:00 PM",
+        "sunday": "Closed"
+      }
+    }
+  ],
+  "attractions": [
+    {
+      "name": "City Museum",
+      "address": "222 Park Ave, Cityville",
+      "phone": "+1 (555) 777-8888",
+      "type": "Museum",
+      "rating": 4.7,
+      "open_hours": {
+        "monday": "10:00 AM - 05:00 PM",
+        "tuesday": "10:00 AM - 05:00 PM",
+        "wednesday": "10:00 AM - 05:00 PM",
+        "thursday": "10:00 AM - 05:00 PM",
+        "friday": "10:00 AM - 08:00 PM",
+        "saturday": "10:00 AM - 08:00 PM",
+        "sunday": "12:00 PM - 06:00 PM"
+      }
+    },
+    {
+      "name": "Nature Park",
+      "address": "555 Forest Rd, Townsville",
+      "phone": "+1 (555) 123-7890",
+      "type": "Park",
+      "rating": 4.9,
+      "open_hours": {
+        "monday": "06:00 AM - 07:00 PM",
+        "tuesday": "06:00 AM - 07:00 PM",
+        "wednesday": "06:00 AM - 07:00 PM",
+        "thursday": "06:00 AM - 07:00 PM",
+        "friday": "06:00 AM - 07:00 PM",
+        "saturday": "06:00 AM - 07:00 PM",
+        "sunday": "06:00 AM - 07:00 PM"
+      }
+    },
+    {
+      "name": "West Valley City Park",
+      "address": "2900 W Lehman Ave. West Valley City, UT 84119",
+      "phone": "N/A",
+      "rating": 3.5,
+      "type": "Park",
+      "open_hours": {
+        "monday": "06:00 AM - 10:00 PM",
+        "tuesday": "06:00 AM - 10:00 PM",
+        "wednesday": "06:00 AM - 10:00 PM",
+        "thursday": "06:00 AM - 10:00 PM",
+        "friday": "06:00 AM - 10:00 PM",
+        "saturday": "06:00 AM - 10:00 PM",
+        "sunday": "06:00 AM - 10:00 PM"
+      }
+    }
+  ],
+  "other": [
+    {
+      "name": "Local Art Gallery",
+      "address": "777 Gallery St, Artville",
+      "phone": "+1 (555) 456-7890",
+      "type": "Art",
+      "rating": 4.6,
+      "open_hours": {
+        "monday": "12:00 PM - 06:00 PM",
+        "tuesday": "12:00 PM - 06:00 PM",
+        "wednesday": "Closed",
+        "thursday": "12:00 PM - 06:00 PM",
+        "friday": "12:00 PM - 08:00 PM",
+        "saturday": "10:00 AM - 08:00 PM",
+        "sunday": "10:00 AM - 06:00 PM"
+      }
+    }
+  ]
+}
